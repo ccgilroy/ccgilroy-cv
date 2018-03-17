@@ -117,6 +117,12 @@ Top Scholar Award, Graduate School Fund for Excellence and Innovation, Universit
 
 # Teaching Experience
 
+\cventry{2017}{
+
+Teaching Assistant. SOC 401 A: Data Science and Population Processes
+
+}
+
 \cventry{2016}{
 
 Teaching Assistant. SOC 351: Intimate Relationships
