@@ -122,6 +122,8 @@ Top Scholar Award, Graduate School Fund for Excellence and Innovation, Universit
 
 # Teaching Experience
 
+\cventry{2018}{Teaching Assistant. CSSS 564: Bayesian Statistics for the Social Sciences}
+
 \cventry{2017}{
 
 Workshop Facilitator. IUSSP Training workshop on Social Media, Big Data and Digital Demography. Side meeting at the International Population Conference, Cape Town
@@ -133,6 +135,12 @@ Workshop Facilitator. IUSSP Training workshop on Social Media, Big Data and Digi
 \cventry{2016}{Teaching Assistant. SOC 351: Intimate Relationships}
 
 # Conference Presentations
+
+\cventry{2018}{
+
+"Extending the Demography of Sexuality with Digital Trace Data." Session on Families, Social Media, and Technology at the  Population Association of America Annual Meeting, Denver, CO
+
+}
 
 \cventry{2017}{
 
