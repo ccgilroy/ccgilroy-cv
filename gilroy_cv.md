@@ -90,7 +90,9 @@ Kate Stovel and \textbf{Connor Gilroy}. "Social Structure and Change in Public O
 
 # Teaching Experience
 
-\cventry{2018}{Instructor. SOC 225: Data and Society}
+\cventry{2018}{Teaching Assistant. SOC 225: Data and Society}
+
+\cventry{2018}{Instructor (summer term). SOC 225: Data and Society}
 
 \cventry{2018}{
 
