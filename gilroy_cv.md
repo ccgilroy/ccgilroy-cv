@@ -1,5 +1,5 @@
 ---
-title: Connor Gilroy
+title: Connor C. Gilroy
 subtitle: PhD Student, Sociology
 geometry: margin=1in
 output:
@@ -43,7 +43,13 @@ Seattle WA, 98195-3340
 
 \cventry{expected 2022}{PhD, Sociology, University of Washington}   
 
-\cventry{expected 2018}{M.A., Sociology, University of Washington}
+\cventry{2018}{
+
+M.A., Sociology, University of Washington \\
+Thesis: \parbox[t]{0.75\textwidth}{"How Distinct is Gay Neighborhood Change? Patterns and Variation\\ in Gayborhood Trajectories."} \\
+Committee: Kate Stovel (chair), Emilio Zagheni
+
+}
 
 \cventry{2013}{
 
@@ -56,7 +62,7 @@ Minor in Gender and Sexuality Studies
 
 \begin{multicols}{2}
 
-Sociology of Sexuality \\
+Sociology of Sexualities \\
 Community and Urban Sociology  
 
 \columnbreak
@@ -72,9 +78,9 @@ Social Network Analysis
 
 Jeffrey Arnold, \textbf{Connor Gilroy}, Daiki Hiramori, and Stephen Winkler. "Gendered Language Characteristics and Support for Homosexuality: An Exploratory Analysis of Afrobarometer Data." \textit{in progress}
 
-Anna Filippova, \textbf{Connor Gilroy}, Ridhi Kashyap, Antje Kirchner, Allison C Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. "Humans in the Loop:  Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." \textit{revise and resubmit}
+Anna Filippova, \textbf{Connor Gilroy}, Ridhi Kashyap, Antje Kirchner, Allison C Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. "Humans in the Loop:  Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." \textit{conditional acceptance}
 
-\textbf{Connor Gilroy}. "The Distinctness of Gay Neighborhood Change: Contextual Coherence and Divergence among Gay and Other Neighborhoods." \textit{Master's Thesis, in progress}
+\textbf{Connor Gilroy}. "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." \textit{in progress}
 
 \textbf{Connor Gilroy} and Ridhi Kashyap. "Extending the Demography of Sexuality with Digital Trace Data." \textit{in progress}
 
@@ -82,7 +88,35 @@ Kate Stovel and \textbf{Connor Gilroy}. "Social Structure and Change in Public O
 
 \end{hangparas}
 
+# Teaching Experience
+
+\cventry{2018}{Instructor. SOC 225: Data and Society}
+
+\cventry{2018}{
+
+Organizer. Seattle partner location for the Summer Institute in Computational Social Science (\href{https://compsocialscience.github.io/summer-institute/2018/seattle/}{SICSS-Seattle}). eScience Institute, University of Washington
+
+}
+
+\cventry{2018}{Teaching Assistant. CSSS 564: Bayesian Statistics for the Social Sciences}
+
+\cventry{2017}{
+
+Workshop Facilitator. IUSSP Training workshop on Social Media, Big Data and Digital Demography. Side meeting at the International Population Conference, Cape Town
+
+}
+
+\cventry{2017}{Teaching Assistant. SOC 401 A: Data Science and Population Processes}
+
+\cventry{2016}{Teaching Assistant. SOC 351: Intimate Relationships}
+
 # Fellowships, Honors, & Awards
+
+\cventry{2018}{
+
+Travel Award, Schwartz Endowment, University of Washington (\$1000)
+
+}
 
 \cventry{2017}{
 
@@ -120,21 +154,19 @@ Top Scholar Award, Graduate School Fund for Excellence and Innovation, Universit
 
 }
 
-# Teaching Experience
+# Conference Presentations
 
-\cventry{2018}{Teaching Assistant. CSSS 564: Bayesian Statistics for the Social Sciences}
+\cventry{2018}{
 
-\cventry{2017}{
-
-Workshop Facilitator. IUSSP Training workshop on Social Media, Big Data and Digital Demography. Side meeting at the International Population Conference, Cape Town
+"How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." Special session on "The Social and Cultural Construction of Places" at the Annual Meeting of the American Sociological Association, Philadelphia, PA
 
 }
 
-\cventry{2017}{Teaching Assistant. SOC 401 A: Data Science and Population Processes}
+\cventry{2018}{
 
-\cventry{2016}{Teaching Assistant. SOC 351: Intimate Relationships}
+"Power in the Pipeline? Queer Accountability and the Ethics of Data Processing." "Methodologically Queer" panel at the ASA Sexualities Section Preconference, Philadelphia, PA
 
-# Conference Presentations
+}
 
 \cventry{2018}{
 
@@ -170,7 +202,9 @@ Quality Assurance, Orders Team, Epic Systems Corporation \\
 
 # Service
 
-\cventry{Reviews for}{\textit{Socius}, \textit{Demographic Research}}
+\cventry{Reviews for}{\textit{Socius}, \textit{Demographic Research}, \textit{CHI}}
+
+\cventry{2018}{Influencer, Social Media Team, ASA Sexualities Preconference}
 
 \cventry{2016--2017}{Officer, Rainbow Grads, University of Washington}
 
