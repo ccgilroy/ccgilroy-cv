@@ -72,13 +72,19 @@ Social Network Analysis
 
 \end{multicols}
 
+# Publications
+
+\begin{hangparas}{1cm}{1}
+
+Anna Filippova, \textbf{Connor Gilroy}, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. "Humans in the Loop:  Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." \textit{forthcoming in Socius}
+
+\end{hangparas}
+
 # Work in Progress
 
 \begin{hangparas}{1cm}{1}
 
 Jeffrey Arnold, \textbf{Connor Gilroy}, Daiki Hiramori, and Stephen Winkler. "Gendered Language Characteristics and Support for Homosexuality: An Exploratory Analysis of Afrobarometer Data." \textit{in progress}
-
-Anna Filippova, \textbf{Connor Gilroy}, Ridhi Kashyap, Antje Kirchner, Allison C Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. "Humans in the Loop:  Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." \textit{conditional acceptance}
 
 \textbf{Connor Gilroy}. "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." \textit{in progress}
 
