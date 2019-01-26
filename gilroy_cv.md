@@ -29,14 +29,15 @@ urlcolor: SolarizedMagenta
 
 University of Washington  \\
 Box 353340  \\
-Seattle WA, 98195-3340  
+Seattle WA, 98195-3340  \\
+\faPhone\ 731-225-0001
 
 \columnbreak
 
-\faPhone\ 731-225-0001  \\
-\faEnvelope\ cgilroy@uw.edu \\   
-\faLinkedin\ \href{https://www.linkedin.com/in/ccgilroy}{ccgilroy} | \faTwitter\ \href{https://twitter.com/ccgilroy}{@ccgilroy} | \faGithub\ \href{https://github.com/ccgilroy}{ccgilroy}
-
+\faEnvelope\ \href{mailto:cgilroy@uw.edu}{cgilroy@uw.edu} \\   
+\faGlobe\ \href{https://students.washington.edu/cgilroy}{students.washington.edu/cgilroy}  \\
+\faTwitter\ \href{https://twitter.com/ccgilroy}{@ccgilroy} \\
+\faGithub\ \href{https://github.com/ccgilroy}{ccgilroy}
 \end{multicols}
 
 # Education
@@ -88,13 +89,15 @@ Jeffrey Arnold, \textbf{Connor Gilroy}, Daiki Hiramori, and Stephen Winkler. "Ge
 
 \textbf{Connor Gilroy}. "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." \textit{in progress}
 
-\textbf{Connor Gilroy} and Ridhi Kashyap. "Extending the Demography of Sexuality with Digital Trace Data." \textit{in progress}
+\textbf{Connor Gilroy} and Ridhi Kashyap. "Digital Traces of Sexualities: How Patterns of Social Media Disclosure Can Extend the Demography of Sexuality." \textit{in progress}
 
 Kate Stovel and \textbf{Connor Gilroy}. "Social Structure and Change in Public Opinion: The Case of Same-Sex Marriage." Invited book chapter for \textit{Architecture of the Social}, Peter Hedström and Petri Ylikoski, editors. \textit{draft submitted September 2016}
 
 \end{hangparas}
 
 # Teaching Experience
+
+\cventry{2019}{Teaching Assistant. SOC 316: Sociological Theory}
 
 \cventry{2018}{Teaching Assistant. SOC 225: Data and Society}
 
@@ -211,6 +214,8 @@ Quality Assurance, Orders Team, Epic Systems Corporation \\
 # Service
 
 \cventry{Reviews for}{\textit{Socius}, \textit{Demographic Research}, \textit{CHI}}
+
+\cventry{2018--present}{Co-organizer, Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington}
 
 \cventry{2018}{Influencer, Social Media Team, ASA Sexualities Preconference}
 
