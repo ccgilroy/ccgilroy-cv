@@ -42,7 +42,12 @@ Seattle WA, 98195-3340  \\
 
 # Education
 
-\cventry{expected 2022}{PhD, Sociology, University of Washington}   
+\cventry{expected 2022}{
+
+PhD, Sociology, University of Washington \\
+Certificate: Special Concentration in Social Statistics, May 2019
+
+}   
 
 \cventry{2018}{
 
@@ -96,6 +101,8 @@ Kate Stovel and \textbf{Connor Gilroy}. "Social Structure and Change in Public O
 \end{hangparas}
 
 # Teaching Experience
+
+\cventry{2019}{Teaching Assistant. CSSS 564: Bayesian Statistics for the Social Sciences}
 
 \cventry{2019}{Teaching Assistant. SOC 316: Sociological Theory}
 
