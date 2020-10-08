@@ -45,6 +45,8 @@ Seattle WA, 98195-3340  \\
 \cventry{expected 2022}{
 
 PhD, Sociology, University of Washington \\
+Comprehensive Exam: \parbox[t]{0.55\textwidth}{\strut "Community: Origins, Processes, and Consequences." \\
+\textit{Passed with Distinction, June 2019} \strut} \\
 Certificate: Special Concentration in Social Statistics, May 2019
 
 }   
@@ -52,7 +54,11 @@ Certificate: Special Concentration in Social Statistics, May 2019
 \cventry{2018}{
 
 M.A., Sociology, University of Washington \\
-Thesis: \parbox[t]{0.75\textwidth}{"How Distinct is Gay Neighborhood Change? Patterns and Variation\\ in Gayborhood Trajectories."} \\
+Thesis: \parbox[t]{0.75\textwidth}{\strut
+"How Distinct is Gay Neighborhood Change? Patterns and Variation\\ in Gayborhood Trajectories." \\
+\textit{Department of Sociology Outstanding Master's Thesis, 2019} \\
+\textit{Graduate School Distinguished Thesis Award in Social Sciences, 2019}
+\strut} \\
 Committee: Kate Stovel (chair), Emilio Zagheni
 
 }
@@ -64,6 +70,7 @@ Minor in Gender and Sexuality Studies
 
 }
 
+<!--
 # Research Interests  
 
 \begin{multicols}{2}
@@ -77,20 +84,28 @@ Computational Social Science \\
 Social Network Analysis  
 
 \end{multicols}
+-->
 
 # Publications
 
 \begin{hangparas}{1cm}{1}
 
-Anna Filippova, \textbf{Connor Gilroy}, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. "Humans in the Loop:  Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." \textit{forthcoming in Socius}
+Filippova, Anna, \textbf{Connor Gilroy}, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. "Humans in the Loop:  Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." \textit{forthcoming in Socius}
+
+
+Salganik, Matthew J., Ian Lundberg, Alexander T. Kindel, [and 109 others, including \textbf{Connor Gilroy}]. 2020. "Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration." \textit{Proceedings of the National Academy of Sciences} 117(15):8398–8403.
 
 \end{hangparas}
 
 # Work in Progress
 
-\begin{hangparas}{1cm}{1}
+<!--
 
 Jeffrey Arnold, \textbf{Connor Gilroy}, Daiki Hiramori, and Stephen Winkler. "Gendered Language Characteristics and Support for Homosexuality: An Exploratory Analysis of Afrobarometer Data." \textit{in progress}
+
+-->
+
+\begin{hangparas}{1cm}{1}
 
 \textbf{Connor Gilroy}. "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." \textit{in progress}
 
@@ -100,7 +115,19 @@ Kate Stovel and \textbf{Connor Gilroy}. "Social Structure and Change in Public O
 
 \end{hangparas}
 
+# Research Experience
+
+\cventry{2020--present}{Consultant, survey data analysis. The World Bank Group}
+
 # Teaching Experience
+
+\cventry{2020}{Teaching Assistant. SOC 506/CSSS 507: Quantitative Techniques in Sociology}
+
+\cventry{2020}{Teaching Assistant. SOC 505: Social Statistics}
+
+\cventry{2019}{Teaching Assistant. SOC 504: Social Statistics}
+
+\cventry{2019}{Instructor (summer term). SOC 225: Data and Society}
 
 \cventry{2019}{Teaching Assistant. CSSS 564: Bayesian Statistics for the Social Sciences}
 
@@ -129,6 +156,18 @@ Workshop Facilitator. IUSSP Training workshop on Social Media, Big Data and Digi
 \cventry{2016}{Teaching Assistant. SOC 351: Intimate Relationships}
 
 # Fellowships, Honors, & Awards
+
+\cventry{2019}{
+
+Graduate School Distinguished Thesis Award in Social Sciences
+
+}
+
+\cventry{2019}{
+
+Department of Sociology Outstanding Master's Thesis
+
+}
 
 \cventry{2018}{
 
@@ -174,6 +213,12 @@ Top Scholar Award, Graduate School Fund for Excellence and Innovation, Universit
 
 # Conference Presentations
 
+\cventry{2019}{
+
+"Digital Traces of Sexualities: How Patterns of Social Media Disclosure Can Extend the Demography of Sexuality." Regular session, "Sexualities I: Measuring Continuity and Change in Sexualities" at the Annual Meeting of the American Sociological Association, New York, NY
+
+}
+
 \cventry{2018}{
 
 "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." Special session on "The Social and Cultural Construction of Places" at the Annual Meeting of the American Sociological Association, Philadelphia, PA
@@ -214,13 +259,17 @@ Quality Assurance, Orders Team, Epic Systems Corporation \\
 
 }
 
+<!--
+
 \cventry{2010--2013}{Research Assistant, Dwyer Lab, Department of Ecology and Evolution, University of Chicago and Kellogg Biological Station}
 
 \cventry{2012}{Research Assistant, Kidwell Research Cruise, University of Chicago and Scripps Institute of Oceanography}
 
+-->
+
 # Service
 
-\cventry{Reviews for}{\textit{Socius}, \textit{Demographic Research}, \textit{CHI}}
+\cventry{Reviews for}{\textit{Socius}, \textit{Demographic Research}, \textit{CHI}, \textit{Journal of Homosexuality}}
 
 \cventry{2018--present}{Co-organizer, Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington}
 
@@ -232,17 +281,27 @@ Quality Assurance, Orders Team, Epic Systems Corporation \\
 
 \cventry{2014--2015}{Co-executive, LGBTQIA Employee Resource Group, Epic Systems Corporation}
 
+<!--
+
 \cventry{2010--2013}{Board Member, Queers and Associates, University of Chicago}
 
 \cventry{2011--2012}{LGBTQ Student Advisory Board, University of Chicago}
+
+-->
 
 # Professional Associations
 
 \cventry{2016--present}{American Sociological Association}
 
+<!--
+
 \cventry{2017--present}{International Union for the Scientific Study of Population}
 
 \cventry{2018--present}{Population Association of America}
+
+-->
+
+<!--
 
 # Software
 
@@ -257,6 +316,8 @@ with Anna Filippova and Antje Kirchner
 }
 
 }
+
+-->
 
 # Technical Skills
 
