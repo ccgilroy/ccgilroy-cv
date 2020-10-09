@@ -1,0 +1,26 @@
+<script>
+(function() {
+  var i, s, el, els;
+  // maybe it's a pandoc update or something
+  // but the data-icon stuff gets stuck on the h2 tag, not the div tag above it
+  // this code accounts for that and changes the bookmarks to the right icons
+  els = document.getElementById('main').querySelectorAll('.level2 > h2');
+  for (i = 0; i < els.length; i++) {
+    el = els[i];
+    s = el.dataset['icon'] || 'bookmark';
+    el.firstElementChild.className = 'fa fa-' + s
+  }
+})();
+(function() {
+  var el1
+  // this is a bad hack substitute for fixing the CSS
+  // but the CSS is complicated
+  el1 = document.getElementById('awards').querySelector('h2')
+  el1.removeChild(el1.childNodes[0])
+})();
+(function() {
+  var el1
+  el1 = document.getElementById('service').querySelector('h2')
+  el1.removeChild(el1.childNodes[0])
+})();
+</script>
