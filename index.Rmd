@@ -7,8 +7,6 @@ output:
     css: ['css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-    includes:
-      after_body: fix_icons.html
 ---
 
 Aside
@@ -57,8 +55,6 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 
 Last updated on `r Sys.Date()`.
 
-
-
 Main
 ================================================================================
 
@@ -79,7 +75,7 @@ Seattle, WA
 
 expected 2022 - 2018
 
-Comprehensive Exam: "Community: Origins, Processes, and Consequences." Passed with distinction (June 2019) 
+Comprehensive Exam: "Community: Origins, Processes, and Consequences." Passed with distinction (June 2019) | [reading list](https://ccgilroy.github.io/gilroy-reading-list/)
 
 Certificate: Special Concentration in Social Statistics (May 2019)
 
@@ -91,7 +87,7 @@ Seattle, WA
 
 2018 - 2015
 
-Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." 
+Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." | [full text](https://digital.lib.washington.edu/researchworks/handle/1773/42543)
 
 - Department of Sociology Outstanding Master's Thesis (2019)
 - Graduate School Distinguished Thesis Award in Social Sciences (2019)
@@ -119,7 +115,7 @@ N/A
 
 2020
 
-Salganik, Matthew J., Ian Lundberg, Alexander T. Kindel, [and 109 others, including **Connor Gilroy**]. *Proceedings of the National Academy of Sciences* 117(15):8398–8403.
+Salganik, Matthew J., Ian Lundberg, Alexander T. Kindel, [and 109 others, including **Connor Gilroy**]. *Proceedings of the National Academy of Sciences* 117(15):8398–8403. [doi: 10.1073/pnas.1915006117](https://doi.org/10.1073/pnas.1915006117)
 
 ### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data 
 
@@ -129,10 +125,20 @@ N/A
 
 2019
 
-Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius.* https://doi.org/10.1177/2378023118820157. (corresponding author)
+Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
 
 Work in Progress {data-icon=book-open}
 --------------------------------------------------------------------------------
+
+### Digital Traces of Sexualities: Patterns of Social Media Disclosure and the Salience of Sexual Identity
+
+N/A
+
+N/A
+
+N/A
+
+With Ridhi Kashyap. *Submitted*
 
 ### How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories
 
@@ -142,15 +148,13 @@ N/A
 
 N/A
 
-### Digital Traces of Sexualities: How Patterns of Social Media Disclosure Can Extend the Demography of Sexuality
+### Geography or Gemeinschaft? Disentangling the meaning of “community” through word embeddings
 
 N/A
 
 N/A
 
 N/A
-
-With Ridhi Kashyap.
 
 ### Social Structure and Change in Public Opinion: The Case of Same-Sex Marriage
 
@@ -164,7 +168,7 @@ With Katherine Stovel. Invited book chapter for *Architecture of the Social*, Pe
 
 ::: aside
 
-Fellowships, Honors, & Awards {#awards}
+Fellowships, Honors, & Awards {#awards data-icon=none}
 --------------------------------------------------------------------------------
 
 **2019.** Graduate School Distinguished Thesis Award in Social Sciences
@@ -198,8 +202,7 @@ Seattle, WA
 
 present - 2020
 
-- Text and network community detection (with Zack Almquist)  | **Python, R**
-
+- Text and network community detection (with Zack Almquist) | **Python, R**
 
 ### User Experience Research Intern
 
@@ -219,7 +222,7 @@ Washington, DC
 
 2020
 
-- Modeling and visualization of gender-based disparities in Central Asia | **R**
+- Modeling and visualization of gender-based disparities in Central Asia (with Stephen Winkler, supervisor Audrey Sacks) | **R** | [story based on analysis](https://www.worldbank.org/en/news/feature/2021/03/08/women-must-play-a-central-role-in-uzbekistans-recovery-from-the-pandemic)
 
 ### Graduate Research Assistant
 
@@ -242,7 +245,7 @@ Seattle, WA
 
 N/A
 
-- SOC 225: Data and Society (2018, 2019)
+- SOC 225: Data and Society (2018, 2019) | [syllabus](http://students.washington.edu/cgilroy/teaching/soc225_syllabus_summer2019.pdf), [lab materials](https://github.com/uw-soc-225/uw-soc-225)
 
 ### Graduate Teaching Assistant
 
@@ -262,19 +265,40 @@ N/A
 **Graduate:** 
 
 - SOC 504, 505, 506: Social Statistics (2019-2020)
-- CSSS 564: Bayesian Statistics for the Social Sciences (2018, 2019)
+- CSSS 564: Bayesian Statistics for the Social Sciences<br> (2018, 2019) | [lab materials](https://ccgilroy.github.io/csss564-labs-2019/)
 
-### Workshops
-
-N/A
+### Workshops and lectures
 
 N/A
 
 N/A
 
-- **Organizer**, Seattle partner location for the Summer Institute in Computational Social Science ([SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/}{SICSS-Seattle)). eScience Institute, University of Washington (2018)
-- **Facilitator**, [IUSSP Training workshop](https://github.com/CSDE-UW/IUSSP-digital-demog-2017) on Social Media, Big Data and Digital Demography. Side meeting at the International Population Conference, Cape Town (2017)
+N/A
 
+- **Instructor**, Workshop on Word Embeddings for the Social Sciences<br> Computational Social Science reading group, Sociologists of Digital Things<br> (2021) | [materials](https://ccgilroy.github.io/word-embeddings-workshop/)
+- **Guest Lecturer**, Demography and Data Science<br> CSSS 563: Statistical Demography (Instructor: Adrian Raftery), University of Washington<br> (2020, 2021) | [lecture materials](https://ccgilroy.github.io/demography-and-data-science/), [lab materials](https://github.com/ccgilroy/csss563-demo)
+- **Instructor**, Introduction to tidycensus (with Neal Marquez)<br> Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington<br> (2020) | [materials](https://csde-uw.github.io/tidycensus-tutorial/)
+- **Organizer**, Seattle partner location for the Summer Institute in Computational Social Science (SICSS-Seattle) (with Bernease Herman)<br> eScience Institute, University of Washington<br> (2018) | [website](https://sicss.io/2018/seattle/)
+- **Facilitator**, IUSSP Training workshop on Social Media, Big Data and Digital Demography (with Emilio Zagheni)<br> Side meeting at the International Population Conference, Cape Town<br> (2017) | [materials](https://github.com/CSDE-UW/IUSSP-digital-demog-2017)
+
+::: aside
+
+Service {#service data-icon=none}
+--------------------------------------------------------------------------------
+
+Reviews for *American Sociological Review*, *Socius*, *Demographic Research*, *CHI*, *Journal of Homosexuality*
+
+**2020--present.** Secretary, Graduate Student Association, Department of Sociology, University of Washington
+
+**2018--2020.** Organizer, Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington
+
+**2018.** Influencer, Social Media Team, ASA Sexualities Preconference
+
+**2016--2017.** Officer, Rainbow Grads, University of Washington
+
+**2015--2017.** Wiki Coordinator, Graduate Student Association, Department of Sociology, University of Washington
+
+:::
 
 Other Work Experience {data-icon=desktop}
 --------------------------------------------------------------------------------
@@ -289,27 +313,18 @@ Verona, WI
 
 - Automated and manual software testing | **C#, Python, Excel**
 
-::: aside
-
-Service {#service}
---------------------------------------------------------------------------------
-
-Reviews for *Socius*, *Demographic Research*, *CHI*, *Journal of Homosexuality*
-
-**2020--present.** Secretary, Graduate Student Association, Department of Sociology, University of Washington
-
-**2018--2020.** Organizer, Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington
-
-**2018.** Influencer, Social Media Team, ASA Sexualities Preconference
-
-**2016--2017.** Officer, Rainbow Grads, University of Washington
-
-**2015--2017.** Wiki Coordinator, Graduate Student Association, Department of Sociology, University of Washington
-
-:::
-
 Conference Presentations {data-icon=comments}
 --------------------------------------------------------------------------------
+
+### Geography or Gemeinschaft? Disentangling the Meaning of "Community" through Word Embeddings
+
+Annual Meeting of the American Sociological Association
+
+Virtual
+
+2021 (planned)
+
+Sociology of Culture Section Roundtable Session, "Meaning and Metaphor"
 
 ### Digital Traces of Sexualities: How Patterns of Social Media Disclosure Can Extend the Demography of Sexuality
 

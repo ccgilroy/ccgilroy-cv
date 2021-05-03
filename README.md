@@ -6,3 +6,5 @@ Many modifications, especially custom css, inspired by Nick Strayer's CV:
 - github repo: https://github.com/nstrayer/cv
 
 There seems to be an issue, possibly due to changes in pandoc?, which means that fontawesome icons don't render in sections correctly by default. A snippet of javascript in fix_icons.html fixes this.
+
+Update, 2021-05-01. This bug is fixed as of pagedown version 0.14. 

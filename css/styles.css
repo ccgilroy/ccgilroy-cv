@@ -94,3 +94,9 @@ a:link {
   /*margin-left: 0.15in;*/
   margin: 0;
 }
+
+/* could do this with a class instead */
+/* just have to use the dot in the Rmd file */
+/* #main #awards, #main #service { 
+  padding: 0in var(--sidebar-horizontal-padding);
+}*/
