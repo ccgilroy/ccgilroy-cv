@@ -107,6 +107,16 @@ Minor: Gender and Sexuality Studies
 Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
+### Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media
+
+N/A
+
+N/A
+
+2021
+
+**Gilroy, Connor** and Ridhi Kashyap. *Socius* 7:1-18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
+
 ### Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration
 
 N/A
@@ -125,20 +135,12 @@ N/A
 
 2019
 
-Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
+Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
+
+<br>
 
 Work in Progress {data-icon=book-open}
 --------------------------------------------------------------------------------
-
-### Digital Traces of Sexualities: Patterns of Social Media Disclosure and the Salience of Sexual Identity
-
-N/A
-
-N/A
-
-N/A
-
-With Ridhi Kashyap. *Submitted*
 
 ### How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories
 
