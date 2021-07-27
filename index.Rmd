@@ -20,7 +20,7 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> cgilroy@uw.edu
-- <i class="fa fa-globe"></i> [students.washington.edu/cgilroy](https://students.washington.edu/cgilroy)
+- <i class="fa fa-globe"></i> [ccgilroy.com](https://ccgilroy.com)
 - <i class="fa fa-github"></i> [github.com/ccgilroy](https://github.com/ccgilroy)
 - <i class="fa fa-twitter"></i> [\@ccgilroy](https://twitter.com/ccgilroy)
 - <i class="fa fa-phone"></i> 731-225-0001
