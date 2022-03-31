@@ -32,7 +32,11 @@ Skills {#skills}
 
 **Programming:** R, Python, Stan, SQL
 
-**Data science:** Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping, APIs, and Hive tables.
+**Data science:** 
+
+- Statistical modeling and data visualization of survey, network, spatial, and text data 
+- Designing and weighting complex surveys 
+- Combining disparate data sources, including from web-scraping, APIs, and Hive tables
 
 **Language:** English (native), Spanish (advanced), Japanese (advanced), French (intermediate)
 
@@ -73,7 +77,7 @@ University of Washington
 
 Seattle, WA
 
-expected 2022 - 2018
+expected 2023 - 2018
 
 Comprehensive Exam: "Community: Origins, Processes, and Consequences." Passed with distinction (June 2019) | [reading list](https://ccgilroy.github.io/gilroy-reading-list/)
 
@@ -115,7 +119,7 @@ N/A
 
 2021
 
-**Gilroy, Connor** and Ridhi Kashyap. *Socius* 7:1-18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
+**Gilroy, Connor** and Ridhi Kashyap. *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
 
 ### Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration
 
@@ -150,13 +154,22 @@ N/A
 
 N/A
 
-### Geography or Gemeinschaft? Disentangling the meaning of “community” through word embeddings
+### Geography or Gemeinschaft? Disentangling the meaning of "community" through word embeddings
 
 N/A
 
 N/A
 
 N/A
+
+### Density, diversity, culture: How place characteristics shape individual sense of community for LGBTQ people
+
+N/A
+
+N/A
+
+N/A
+
 
 ### Social Structure and Change in Public Opinion: The Case of Same-Sex Marriage
 
@@ -202,9 +215,9 @@ University of Washington
 
 Seattle, WA
 
-present - 2020
+2021 - 2020
 
-- Text and network community detection (with Zack Almquist) | **Python, R**
+- Web crawling, text analysis, and network community detection for homeless care organizations (with Zack Almquist) | **Python, R**
 
 ### User Experience Research Intern
 
@@ -212,9 +225,10 @@ Facebook
 
 Seattle, WA
 
-2020
+2021, 2020
 
-- Quantitative studies of participation in new communities | **R, SQL**
+- Complex survey of job seeker needs and satisfaction (2021) | **R, Python, SQL**
+- Quantitative studies of participation in new communities (2020) | **R, SQL**
 
 ### Consultant, Survey Data Analysis
 
@@ -277,6 +291,7 @@ N/A
 
 N/A
 
+- **Instructor** (with Sandeep Soni), Comparing Word Embedding Models<br>NLP+CSS 201 Tutorials (2021) | [materials](https://colab.research.google.com/drive/16cM5NXedlrvU2mp-HcYKs9OIMkYItTS1?usp=sharing), [recording](https://youtu.be/WbzPZZKJRJA)
 - **Instructor**, Workshop on Word Embeddings for the Social Sciences<br> Computational Social Science reading group, Sociologists of Digital Things<br> (2021) | [materials](https://ccgilroy.github.io/word-embeddings-workshop/)
 - **Guest Lecturer**, Demography and Data Science<br> CSSS 563: Statistical Demography (Instructor: Adrian Raftery), University of Washington<br> (2020, 2021) | [lecture materials](https://ccgilroy.github.io/demography-and-data-science/), [lab materials](https://github.com/ccgilroy/csss563-demo)
 - **Instructor**, Introduction to tidycensus (with Neal Marquez)<br> Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington<br> (2020) | [materials](https://csde-uw.github.io/tidycensus-tutorial/)
@@ -290,7 +305,7 @@ Service {#service data-icon=none}
 
 Reviews for *American Sociological Review*, *Socius*, *Demographic Research*, *CHI*, *Journal of Homosexuality*
 
-**2020--present.** Secretary, Graduate Student Association, Department of Sociology, University of Washington
+**2020--2021** Secretary, Graduate Student Association, Department of Sociology, University of Washington
 
 **2018--2020.** Organizer, Computational Demography Working Group, Center for Studies in Demography and Ecology, University of Washington
 
@@ -318,13 +333,23 @@ Verona, WI
 Conference Presentations {data-icon=comments}
 --------------------------------------------------------------------------------
 
+### Density, Diversity, Culture: How Place Characteristics Shape Individual Sense of Community for LGBTQ People
+
+Annual Meeting of the American <br>Sociological Association
+
+Los Angeles, CA
+
+2022 (planned)
+
+Community and Urban Sociology Section Section, "Queer Placemaking Beyond the Gayborhood"
+
 ### Geography or Gemeinschaft? Disentangling the Meaning of "Community" through Word Embeddings
 
 Annual Meeting of the American Sociological Association
 
 Virtual
 
-2021 (planned)
+2021
 
 Sociology of Culture Section Roundtable Session, "Meaning and Metaphor"
 
