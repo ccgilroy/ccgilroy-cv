@@ -56,7 +56,7 @@ a:link {
 
 /* Customize some of the sizing variables */
 :root {
-  --sidebar-width: 14rem; /* Shrink sidebar width  */
+  --sidebar-width: 12rem; /* Shrink sidebar width  */
   --sidebar-background-color: #fdf6e3;  /* Make sidebar solarized */ 
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-border: 1px solid #6c71c4; /* Make timeline solarized violet */

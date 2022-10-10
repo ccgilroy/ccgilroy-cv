@@ -23,6 +23,7 @@ Contact {#contact}
 - <i class="fa fa-globe"></i> [ccgilroy.com](https://ccgilroy.com)
 - <i class="fa fa-github"></i> [github.com/ccgilroy](https://github.com/ccgilroy)
 - <i class="fa fa-twitter"></i> [\@ccgilroy](https://twitter.com/ccgilroy)
+- <i class="fa fa-linkedin"></i> [ccgilroy](https://www.linkedin.com/in/ccgilroy/)
 - <i class="fa fa-phone"></i> 731-225-0001
 
 
@@ -34,9 +35,12 @@ Skills {#skills}
 
 **Data science:** 
 
-- Statistical modeling and data visualization of survey, network, spatial, and text data 
-- Designing and weighting complex surveys 
-- Combining disparate data sources, including from web-scraping, APIs, and Hive tables
+- **Data collection:** webscraping and crawling, geocoding, APIs (US Census, social media)
+- **Databases:** Hive and PostgreSQL
+- **Surveys:** stratified survey design and weighting
+- **Statistical modeling:** GLMs, hierarchical models, regularized regression, Bayesian statistics
+- **Text analysis:** topic modeling, word embeddings
+- **Data visualization:** ggplot2, matplotlib, shiny
 
 **Language:** English (native), Spanish (advanced), Japanese (advanced), French (intermediate)
 
@@ -55,7 +59,7 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -65,7 +69,7 @@ Main
 Connor Gilroy {#title}
 --------------------------------------------------------------------------------
 
-### Computational sociologist & PhD student
+### Computational sociologist & PhD candidate
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -78,6 +82,10 @@ University of Washington
 Seattle, WA
 
 expected 2023 - 2018
+
+Dissertation: "Expressions of Community: Understanding Variations in Community through LGBTQ Experiences." (proposal defended June 2022)
+
+Committee: Kate Stovel (chair), Jelani Ince, Kyle Crowder, Mako Hill
 
 Comprehensive Exam: "Community: Origins, Processes, and Consequences." Passed with distinction (June 2019) | [reading list](https://ccgilroy.github.io/gilroy-reading-list/)
 
@@ -209,6 +217,18 @@ Fellowships, Honors, & Awards {#awards data-icon=none}
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Data Science intern
+
+Meta
+
+Seattle, WA
+
+2022
+
+- Analyzed feed engagement with reshared Groups content | **R, SQL**
+- Built a data pipeline to create a new experimental metric | **Python, SQL**
+- Reanalyzed a collection of experiments to quantify tradeoffs between types of content | **R, SQL**
+
 ### Graduate Research Assistant
 
 University of Washington 
@@ -217,7 +237,10 @@ Seattle, WA
 
 2021 - 2020
 
-- Web crawling, text analysis, and network community detection for homeless care organizations (with Zack Almquist) | **Python, R**
+(with Zack Almquist) 
+
+- Text and network analysis of Twitter data from homeless care organizations | **R, SQL**
+- Built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages | **Python, SQL**
 
 ### User Experience Research Intern
 
@@ -238,7 +261,7 @@ Washington, DC
 
 2020
 
-- Modeling and visualization of gender-based disparities in Central Asia (with Stephen Winkler, supervisor Audrey Sacks) | **R** | [story based on analysis](https://www.worldbank.org/en/news/feature/2021/03/08/women-must-play-a-central-role-in-uzbekistans-recovery-from-the-pandemic)
+- Statistical modeling and visualization of gender-based disparities in Central Asia (with Stephen Winkler, supervisor Audrey Sacks) | **R** | [story based on analysis](https://www.worldbank.org/en/news/feature/2021/03/08/women-must-play-a-central-role-in-uzbekistans-recovery-from-the-pandemic)
 
 ### Graduate Research Assistant
 
@@ -280,7 +303,7 @@ N/A
 
 **Graduate:** 
 
-- SOC 504, 505, 506: Social Statistics (2019-2020)
+- SOC 504, 505, 506: Social Statistics (2019-2020, 2022-2023)
 - CSSS 564: Bayesian Statistics for the Social Sciences<br> (2018, 2019) | [lab materials](https://ccgilroy.github.io/csss564-labs-2019/)
 
 ### Workshops and lectures
@@ -339,7 +362,7 @@ Annual Meeting of the American <br>Sociological Association
 
 Los Angeles, CA
 
-2022 (planned)
+2022
 
 Community and Urban Sociology Section Section, "Queer Placemaking Beyond the Gayborhood"
 
