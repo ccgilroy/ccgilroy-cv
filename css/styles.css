@@ -114,10 +114,10 @@ a:link {
 /* just have to use the dot in the Rmd file */
 #main #awards { 
   padding: 0in var(--sidebar-horizontal-padding);
-  margin-top: -2in;
+  margin-top: -3in;
 }
 
 #main #service { 
   padding: 0in var(--sidebar-horizontal-padding);
-  margin-top: -4in;
+  margin-top: -8in;
 }

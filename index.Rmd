@@ -38,7 +38,7 @@ Skills {#skills}
 - **Data collection:** webscraping and crawling, geocoding, APIs (US Census, social media)
 - **Databases:** Hive and PostgreSQL
 - **Surveys:** stratified survey design and weighting
-- **Statistical modeling:** GLMs, hierarchical models, regularized regression, Bayesian statistics
+- **Statistical modeling:** GLMs, hierarchical models, regularized regression, random forets, Bayesian statistics
 - **Text analysis:** topic modeling, word embeddings
 - **Data visualization:** ggplot2, matplotlib, shiny
 
@@ -229,6 +229,8 @@ Seattle, WA
 - Built a data pipeline to create a new experimental metric | **Python, SQL**
 - Reanalyzed a collection of experiments to quantify tradeoffs between types of content | **R, SQL**
 
+Analyzed feed engagement with reshared Facebook Groups content, presented insights to the Director of Data Science for Communities, built a data pipeline to create a new metric, reanalyzed a collection of experiments to quantify tradeoffs between types of content, and launched a new experiment to assess incremental value of reshared content (2022, Communities Ecosystem team)
+
 ### Graduate Research Assistant
 
 University of Washington 
@@ -250,8 +252,8 @@ Seattle, WA
 
 2021, 2020
 
-- Complex survey of job seeker needs and satisfaction (2021) | **R, Python, SQL**
-- Quantitative studies of participation in new communities (2020) | **R, SQL**
+- Designed, fielded, and analyzed a complex stratified survey of job seeker needs and satisfaction; wrote a widely-referenced technical guide to creating inverse probability weights for nonresponse using an internal Python tool; evaluated quality of an external vendor's missing data imputation for a sensitive survey question (2021, Commerce Ecosystem team)
+- Designed and conducted two studies (log data analysis with random forest models, behaviorally-targeted followup survey) of factors driving initial participation in new online communities (2020, Community Creation team) 
 
 ### Consultant, Survey Data Analysis
 
@@ -261,7 +263,7 @@ Washington, DC
 
 2020
 
-- Statistical modeling and visualization of gender-based disparities in Central Asia (with Stephen Winkler, supervisor Audrey Sacks) | **R** | [story based on analysis](https://www.worldbank.org/en/news/feature/2021/03/08/women-must-play-a-central-role-in-uzbekistans-recovery-from-the-pandemic)
+- Statistical modeling and visualization of gender-based disparities in Central Asia;  wrote reproducible R pipeline for updating reports with new waves of survey data (with Stephen Winkler, supervisor Audrey Sacks) | [story based on analysis](https://www.worldbank.org/en/news/feature/2021/03/08/women-must-play-a-central-role-in-uzbekistans-recovery-from-the-pandemic)
 
 ### Graduate Research Assistant
 
@@ -271,7 +273,7 @@ Seattle, WA
 
 2018 - 2015
 
-- Agent-based network models (with Katherine Stovel) | **NetLogo, R**
+- Agent-based network models of public opinion change (with Katherine Stovel)
 
 Teaching Experience {data-icon=chalkboard}
 --------------------------------------------------------------------------------
@@ -326,7 +328,9 @@ N/A
 Service {#service data-icon=none}
 --------------------------------------------------------------------------------
 
-Reviews for *American Sociological Review*, *Socius*, *Demographic Research*, *CHI*, *Journal of Homosexuality*
+Reviews for *American Sociological Review*, *Socius*, *Sociological Methodology*, *Demographic Research*, *CHI*, *Journal of Homosexuality*
+
+**2022--2023** Leader, Gender and Sexuality Graduate Research Cluster, Simpson Center, University of Washington
 
 **2020--2021** Secretary, Graduate Student Association, Department of Sociology, University of Washington
 
@@ -351,7 +355,7 @@ Verona, WI
 
 2015 - 2013
 
-- Automated and manual software testing | **C#, Python, Excel**
+- Automated and manual software testing
 
 Conference Presentations {data-icon=comments}
 --------------------------------------------------------------------------------
