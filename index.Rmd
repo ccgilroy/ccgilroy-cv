@@ -225,11 +225,7 @@ Seattle, WA
 
 2022
 
-- Analyzed feed engagement with reshared Groups content | **R, SQL**
-- Built a data pipeline to create a new experimental metric | **Python, SQL**
-- Reanalyzed a collection of experiments to quantify tradeoffs between types of content | **R, SQL**
-
-Analyzed feed engagement with reshared Facebook Groups content, presented insights to the Director of Data Science for Communities, built a data pipeline to create a new metric, reanalyzed a collection of experiments to quantify tradeoffs between types of content, and launched a new experiment to assess incremental value of reshared content (2022, Communities Ecosystem team)
+- Analyzed feed engagement with reshared Facebook Groups content, presented insights to the Director of Data Science for Communities, built a data pipeline to create a new metric, reanalyzed a collection of experiments to quantify tradeoffs between types of content, and launched a new experiment to assess incremental value of reshared content (2022, Communities Ecosystem team)
 
 ### Graduate Research Assistant
 
